@@ -1,0 +1,23 @@
+run_id: Hamza, ============================================================================
+run_id: Hamza, project: norec, run_name: norec, run_id: Hamza
+
+run_id: Hamza, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------

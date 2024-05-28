@@ -1,0 +1,184 @@
+run_id: tr4nRzpf, ============================================================================
+run_id: tr4nRzpf, project: norec, run_name: norec, run_id: tr4nRzpf
+
+run_id: tr4nRzpf, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: Sgvpy0R5, ============================================================================
+run_id: Sgvpy0R5, project: norec, run_name: norec, run_id: Sgvpy0R5
+
+run_id: Sgvpy0R5, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: I4j2LDUN, ============================================================================
+run_id: I4j2LDUN, project: norec, run_name: norec, run_id: I4j2LDUN
+
+run_id: I4j2LDUN, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: Tia1fSdn, ============================================================================
+run_id: Tia1fSdn, project: norec, run_name: norec, run_id: Tia1fSdn
+
+run_id: Tia1fSdn, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: a3RejPcY, ============================================================================
+run_id: a3RejPcY, project: norec, run_name: norec, run_id: a3RejPcY
+
+run_id: a3RejPcY, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: qEGOnM9m, ============================================================================
+run_id: qEGOnM9m, project: norec, run_name: norec, run_id: qEGOnM9m
+
+run_id: qEGOnM9m, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 100,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: YwbOLqfm, ============================================================================
+run_id: YwbOLqfm, project: norec, run_name: norec, run_id: YwbOLqfm
+
+run_id: YwbOLqfm, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 400,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
+run_id: 3swcOIQ9, ============================================================================
+run_id: 3swcOIQ9, project: norec, run_name: norec, run_id: 3swcOIQ9
+
+run_id: 3swcOIQ9, --------------hypter_parameters------------------- 
+{
+    "lr": 3e-05,
+    "enc_hidden_size": 1000,
+    "dec_hidden_size": 800,
+    "emb_dropout": 0.4,
+    "rnn_dropout": 0.3,
+    "word_embedding_dim": 100,
+    "char_embedding_dim": 8,
+    "batch_size": 8,
+    "epochs": 60,
+    "seed": 1234,
+    "log_interval": 10,
+    "max_seq_len": 400,
+    "sliding_len": 20,
+    "scheduler": "CAWR",
+    "T_mult": 1,
+    "rewarm_epoch_num": 2
+}
+-----------------------------------------
